@@ -1,0 +1,32 @@
+_repo: Los-Amantes-de-Teruel--13-Drama-en-cuatro-actos-en-verso-y-prosa_10909
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hartzenbusch, Juan Eugenio
+    alias: De Hartzenbusch, Juan Eugenio
+    birthdate: 1806
+    deathdate: 1880
+    gutenberg_agent_id: '3746'
+    url: http://www.gutenberg.org/2009/agents/3746
+    wikipedia: http://en.wikipedia.org/wiki/Juan_Eugenio_Hartzenbusch
+  editor:
+    agent_name: Umphrey, G. W. (George Wallace)
+    alias: Umphrey, George Wallace
+    birthdate: 1878
+    gutenberg_agent_id: '40261'
+    url: http://www.gutenberg.org/2009/agents/40261
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10909'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lovers of Teruel (Legend) -- Drama'
+- !lcc 'PQ'
+- GITenberg
+title: "Los Amantes de Teruel\r\nDrama en cuatro actos en verso y prosa"
+url: http://www.gutenberg.org/ebooks/10909
